@@ -4,15 +4,13 @@
 
 This Student Portfolio was created to practice best practices in web developement as well as to showcase past projects I have worked on. This portfolio was built using REACT.
 
-You can view the portfolio at https://willhaberer.github.io/react-portfolio/
-
 ## Installation
 
 No installation necessary, this page is hosted through github.
 
 ## Usage
 
-To view this application at https://willhaberer.github.io/Student-Portfolio/
+You can view the portfolio at https://willhaberer.github.io/react-portfolio/
 
 ## Contributing
 
