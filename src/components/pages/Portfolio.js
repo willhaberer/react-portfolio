@@ -8,8 +8,6 @@ export default function Portfolio() {
         <h1>Portfolio</h1>
       </div>
       <div class="row portfolio">
-        <h3 class="col-3 sec-header">Portfolio</h3>
-        <a id="portfolio-header"></a>
         <div class="col-9">
           <div class="card-container">
             <div class="card">
