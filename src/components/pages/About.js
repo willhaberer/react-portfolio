@@ -1,8 +1,9 @@
 import React from "react";
+import "../../styles/style.css";
 
 export default function About() {
   return (
-    <div>
+    <div class="main-content">
       <h1>About Page</h1>
       <p>
         Will Haberer is a web developement student at Columbia Coding Bootcamp

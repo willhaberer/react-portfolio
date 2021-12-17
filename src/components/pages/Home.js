@@ -1,8 +1,9 @@
-import React from 'react';
+import React from "react";
+import "../../styles/style.css";
 
 export default function Home() {
   return (
-    <div>
+    <div class="main-content">
       <h1>Home Page</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
