@@ -5,3 +5,25 @@
 .nav-tabs {
   padding: 0.5em;
 }
+
+#page-header {
+  color: black;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.me-info,
+.hobby-info,
+.work-info {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#work-text {
+  text-align: right;
+}
+
+#about-image {
+  height: 400px;
+  width: 600px;
+}
