@@ -23,23 +23,25 @@ export default function About() {
         <div class="col-3">
           <img
             src="https://www.trilogyed.com/blog/wp-content/uploads/2018/05/columbia_coding_boot_camp2_brandon_colbert.jpg"
-            alt="Columbia Coding Bootcamps"
+            alt="Work"
             id="about-image"
           ></img>
         </div>
-        <div class="col-6" id="work-text">
-          My previous work is certainly something
+        <div class="col-6" id="work-text-container">
+          <p id="work-text">My previous work is certainly something</p>
         </div>
       </div>
       <div class="row hobby-info">
         <div class="col-6">
-          In my free time i enjoy cooking, hiking and working on creative
-          projects such as making videos, coding projects and creating puzzles
+          <p>
+            In my free time i enjoy cooking, hiking and working on creative
+            projects such as making videos, coding projects and creating puzzles
+          </p>
         </div>
         <div class="col-3">
           <img
-            src="https://www.trilogyed.com/blog/wp-content/uploads/2018/05/columbia_coding_boot_camp2_brandon_colbert.jpg"
-            alt="Columbia Coding Bootcamps"
+            src="https://cdn.pixabay.com/photo/2016/02/05/15/34/pasta-1181189_1280.jpg"
+            alt="Cooking"
             id="about-image"
           ></img>
         </div>

@@ -17,13 +17,23 @@
 .work-info {
   margin-top: 2em;
   margin-bottom: 2em;
+  font-size: 2rem;
+}
+
+#work-text-container {
+  position: relative;
 }
 
 #work-text {
-  text-align: right;
+  position: relative;
+  right: -20rem;
 }
 
 #about-image {
-  height: 400px;
+  height: 300px;
   width: 600px;
+}
+
+#coding-image {
+  justify-content: center;
 }

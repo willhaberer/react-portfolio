@@ -1,10 +1,12 @@
 import React from "react";
 import "../../styles/style.css";
+import wh from "../../assets/coding-info.png";
 
 export default function Home() {
   return (
     <div class="main-content">
       <h1>Home Page</h1>
+      <img src={wh} alt="Coding" id="coding-image"></img>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
