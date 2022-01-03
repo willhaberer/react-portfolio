@@ -99,3 +99,9 @@
 #resumeVolList {
   list-style: none;
 }
+
+.project {
+  margin: 2em;
+  border: solid black 1px;
+  box-shadow: 5px 5px 5px darkgray;
+}

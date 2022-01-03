@@ -9,7 +9,7 @@ export default function Portfolio() {
 
         <div class="row portfolio">
           <div class="col-9">
-            <div class="card-container">
+            <div class="card-container project">
               <div class="card">
                 <div class="card-body">
                   <h5 class="card-title">Ftnss Jnks</h5>
@@ -26,7 +26,7 @@ export default function Portfolio() {
                 </div>
               </div>
             </div>
-            <div class="card-container">
+            <div class="card-container project">
               <div class="card">
                 <div class="card-body">
                   <h5 class="card-title">GreenTrip Planner</h5>
@@ -43,7 +43,7 @@ export default function Portfolio() {
                 </div>
               </div>
             </div>
-            <div class="card-container">
+            <div class="card-container project">
               <div class="card">
                 <div class="card-body">
                   <h5 class="card-title">Password Generator</h5>
@@ -60,7 +60,7 @@ export default function Portfolio() {
                 </div>
               </div>
             </div>
-            <div class="card-container">
+            <div class="card-container project">
               <div class="card">
                 <div class="card-body">
                   <h5 class="card-title">Weather Dashboard</h5>
