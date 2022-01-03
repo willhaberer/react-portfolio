@@ -44,10 +44,6 @@
   width: 600px;
 }
 
-#coding-image {
-  justify-content: center;
-}
-
 #footer {
   background-color: #1c2c5b;
   color: white;
@@ -74,8 +70,21 @@
   margin: auto;
 }
 
-.aboutCard {
+.aboutCard,
+.contactContainer {
   border: solid black 1px;
   text-align: center;
   box-shadow: 5px 5px 5px darkgray;
+}
+
+.contactContainer {
+  width: 80%;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 1em;
+}
+
+#submitBtn:hover {
+  background-color: #6cabdd;
 }
