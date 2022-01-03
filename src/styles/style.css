@@ -71,13 +71,15 @@
 }
 
 .aboutCard,
-.contactContainer {
+.contactContainer,
+.resumeContainer {
   border: solid black 1px;
   text-align: center;
   box-shadow: 5px 5px 5px darkgray;
 }
 
-.contactContainer {
+.contactContainer,
+.resumeContainer {
   width: 80%;
   margin: auto;
   margin-top: 2em;
@@ -87,4 +89,13 @@
 
 #submitBtn:hover {
   background-color: #6cabdd;
+}
+
+#submitBtn {
+  background-color: #1c2c5b;
+}
+
+#resumeWorkList,
+#resumeVolList {
+  list-style: none;
 }
