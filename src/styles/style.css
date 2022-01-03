@@ -65,3 +65,17 @@
 #nav-name {
   color: white;
 }
+
+.cover-photo {
+  display: flex;
+  justify-content: center;
+  max-height: 40%;
+  max-width: 40%;
+  margin: auto;
+}
+
+.aboutCard {
+  border: solid black 1px;
+  text-align: center;
+  box-shadow: 5px 5px 5px darkgray;
+}
