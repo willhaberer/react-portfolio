@@ -5,8 +5,16 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import ghlogo from "../assets/gh-logo.png";
+import lilogo from "../assets/LIlogo.png";
+import "../styles/style.css";
 
 export default function PortfolioContainer() {
+  const styles = {
+    logos: {
+      margin: "20px",
+    },
+  };
+
   const [currentPage, setCurrentPage] = useState("Home");
 
   const renderPage = () => {
@@ -38,10 +46,18 @@ export default function PortfolioContainer() {
           href="https://github.com/willhaberer"
           target="_blank"
           rel="noreferrer"
+          style={styles.logos}
         >
           <img src={ghlogo} alt="Github Logo" height="5%" width="5%"></img>
         </a>
-        <h4>2021</h4>
+        <a
+          href="https://www.linkedin.com/in/will-haberer/"
+          target="_blank"
+          rel="noreferrer"
+          style={styles.logos}
+        >
+          <img src={lilogo} alt="Linkedin Logo" height="7%" width="7%"></img>
+        </a>
       </div>
     </>
   );
