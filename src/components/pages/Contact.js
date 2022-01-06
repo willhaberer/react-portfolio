@@ -11,10 +11,7 @@ export default function Contact() {
       <div className="jumbotron jumbotron-fluid">
         <div className="contactContainer">
           <br></br>
-          <h2>
-            Best Way to Reach Me? Send Me an Email:{" "}
-            <a href="mailto:vawhab@gmail.com">Here</a>
-          </h2>
+          <h2>Best Way to Reach Me? Send Me an Email: willhaberer@gmail.com</h2>
           <br></br>
           <h3>Otherwise please enter your information here</h3>
           <form className="contact-form">
