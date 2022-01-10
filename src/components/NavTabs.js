@@ -23,7 +23,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       </button>
 
       <div className="collapse navbar-collapse blue" id="navbarTogglerDemo02">
-        <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+        <ul id="nav-list" className="navbar-nav mr-auto mt-2 mt-lg-0">
           <li className="nav-item">
             <a
               className={
@@ -32,6 +32,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                   : "nav-link minor"
               }
               href="#about"
+              id="toggle"
               onClick={() => handlePageChange("About")}
             >
               About Me
@@ -43,6 +44,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 currentPage === "Portfolio" ? "nav-link active" : "nav-link"
               }
               href="#portfolio"
+              id="toggle"
               onClick={() => handlePageChange("Portfolio")}
             >
               Portfolio
@@ -54,6 +56,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 currentPage === "Contact" ? "nav-link active" : "nav-link"
               }
               href="#contact"
+              id="toggle"
               onClick={() => handlePageChange("Contact")}
             >
               Contact Me
@@ -65,6 +68,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 currentPage === "Resume" ? "nav-link active" : "nav-link"
               }
               href="#resume"
+              id="toggle"
               onClick={() => handlePageChange("Resume")}
             >
               Resume

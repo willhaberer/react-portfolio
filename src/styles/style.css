@@ -8,7 +8,11 @@
   color: white;
 }
 
-#nav-items {
+#nav-list {
+  color: white;
+}
+
+.nav-item {
   color: white;
 }
 
@@ -49,13 +53,15 @@
 }
 
 #navbar {
-  background-color: #6cabdd;
+  background: rgb(108, 171, 221);
+  background: linear-gradient(
+    90deg,
+    rgba(108, 171, 221, 1) 0%,
+    rgba(108, 171, 221, 1) 61%,
+    rgba(28, 44, 91, 1) 100%
+  );
   padding: 1em;
   font-size: 1.5em;
-}
-
-#nav-name {
-  color: white;
 }
 
 .cover-photo {
@@ -105,4 +111,16 @@
 #head {
   color: white;
   font-size: 2em;
+}
+
+#navbarTogglerDemo02 {
+  justify-content: end;
+  padding: 1.6%;
+
+  font-size: 150%;
+  color: white;
+}
+
+#toggle {
+  color: white;
 }
