@@ -2,10 +2,6 @@
   margin: 2em;
 }
 
-.nav {
-  color: red;
-}
-
 .nav-tabs {
   padding: 0.5em;
   justify-content: right;
@@ -104,4 +100,9 @@
   margin: 2em;
   border: solid black 1px;
   box-shadow: 5px 5px 5px darkgray;
+}
+
+#head {
+  color: white;
+  font-size: 2em;
 }
