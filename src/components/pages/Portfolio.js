@@ -12,13 +12,13 @@ export default function Portfolio() {
             <div class="card-container project">
               <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">Ftnss Jnks</h5>
+                  <h5 class="card-title">Find Me Something New</h5>
                   <p class="card-text">
-                    This tool will allow a user to plan a workout schedule as
-                    well as find recipes to support their workouts
+                    FMSN offers users an app to find new music with a low amount
+                    of streams
                   </p>
                   <a
-                    href="https://github.com/hyanez/Ftnss-Jnks"
+                    href="https://github.com/willhaberer/Find-Me-Something-New"
                     class="card-link"
                   >
                     View the Git Repository here
@@ -29,13 +29,13 @@ export default function Portfolio() {
             <div class="card-container project">
               <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">GreenTrip Planner</h5>
+                  <h5 class="card-title">Ftnss Jnks</h5>
                   <p class="card-text">
-                    A free tool to plan trips with your carbon footprint in
-                    mind. Outputs a map and your CO2 emissions
+                    This tool will allow a user to plan a workout schedule as
+                    well as find recipes to support their workouts
                   </p>
                   <a
-                    href="https://github.com/Jimbo8702/Project-One.git"
+                    href="https://github.com/hyanez/Ftnss-Jnks"
                     class="card-link"
                   >
                     View the Git Repository here
