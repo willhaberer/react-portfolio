@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.01fdee56.css",
-    "main.js": "/react-portfolio/static/js/main.a5be9bde.js",
+    "main.js": "/react-portfolio/static/js/main.2ff7082d.js",
     "static/media/FMSN.png": "/react-portfolio/static/media/FMSN.752c3b037ea58fd5dde8.png",
     "static/media/Ftnss.png": "/react-portfolio/static/media/Ftnss.0307d86e656d85501254.png",
     "static/media/coding-info.png": "/react-portfolio/static/media/coding-info.a3359affba332313b2a2.png",
-    "static/media/WD.png": "/react-portfolio/static/media/WD.1259643720be6ed50767.png",
+    "static/media/WD.png": "/react-portfolio/static/media/WD.0f8e9c7103e7cc51ca08.png",
     "static/media/PG.png": "/react-portfolio/static/media/PG.15b94b5a5e8913aa7731.png",
     "static/media/gh-logo.png": "/react-portfolio/static/media/gh-logo.0a9f6890232728c3196f.png",
     "index.html": "/react-portfolio/index.html",
     "main.01fdee56.css.map": "/react-portfolio/static/css/main.01fdee56.css.map",
-    "main.a5be9bde.js.map": "/react-portfolio/static/js/main.a5be9bde.js.map"
+    "main.2ff7082d.js.map": "/react-portfolio/static/js/main.2ff7082d.js.map"
   },
   "entrypoints": [
     "static/css/main.01fdee56.css",
-    "static/js/main.a5be9bde.js"
+    "static/js/main.2ff7082d.js"
   ]
 }
