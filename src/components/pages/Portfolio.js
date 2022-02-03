@@ -62,11 +62,11 @@ export default function Portfolio() {
             <div class="card-container project">
               <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">Password Generator</h5>
-                  <img src={PG} alt="FMSN-Page" height="50%" width="70%"></img>
+                  <h5 class="card-title">Weather Dashboard</h5>
+                  <img src={WD} alt="WD-Page" height="50%" width="70%"></img>
                   <p class="card-text">
-                    Using prompts, confirms and alerts a user can generate a
-                    random password
+                    Allows users to search for a city and see both current and
+                    upcoming weather
                   </p>
                   <a
                     href="https://github.com/willhaberer/HW-3-PW-Gen"
@@ -80,11 +80,11 @@ export default function Portfolio() {
             <div class="card-container project">
               <div class="card">
                 <div class="card-body">
-                  <h5 class="card-title">Weather Dashboard</h5>
-                  <img src={WD} alt="WD-Page" height="50%" width="70%"></img>
+                  <h5 class="card-title">Password Generator</h5>
+                  <img src={PG} alt="FMSN-Page" height="50%" width="70%"></img>
                   <p class="card-text">
-                    Allows users to search for a city and see both current and
-                    upcoming weather
+                    Using prompts, confirms and alerts a user can generate a
+                    random password
                   </p>
                   <a
                     href="https://github.com/willhaberer/HW-3-PW-Gen"
