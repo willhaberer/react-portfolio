@@ -27,6 +27,9 @@ export default function Portfolio() {
                     FMSN offers users an app to find new music with a low amount
                     of streams
                   </p>
+                  <a href="https://fmsn.herokuapp.com/" class="card-link">
+                    View the Application Here
+                  </a>
                   <a
                     href="https://github.com/willhaberer/Find-Me-Something-New"
                     class="card-link"
@@ -50,6 +53,9 @@ export default function Portfolio() {
                     This tool will allow a user to plan a workout schedule as
                     well as find recipes to support their workouts
                   </p>
+                  <a href="https://ftnss-jnks.herokuapp.com/" class="card-link">
+                    View the Application Here
+                  </a>
                   <a
                     href="https://github.com/hyanez/Ftnss-Jnks"
                     class="card-link"
@@ -69,6 +75,12 @@ export default function Portfolio() {
                     upcoming weather
                   </p>
                   <a
+                    href="https://willhaberer.github.io/Weather-Dashboard/"
+                    class="card-link"
+                  >
+                    View the Application Here
+                  </a>
+                  <a
                     href="https://github.com/willhaberer/HW-3-PW-Gen"
                     class="card-link"
                   >
@@ -86,6 +98,12 @@ export default function Portfolio() {
                     Using prompts, confirms and alerts a user can generate a
                     random password
                   </p>
+                  <a
+                    href="https://willhaberer.github.io/HW-3-PW-Gen/"
+                    class="card-link"
+                  >
+                    View the Application Here
+                  </a>
                   <a
                     href="https://github.com/willhaberer/HW-3-PW-Gen"
                     class="card-link"
