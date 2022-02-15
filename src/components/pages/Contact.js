@@ -13,7 +13,7 @@ export default function Contact() {
           <br></br>
           <h2>Best Way to Reach Me? Send Me an Email: willhaberer@gmail.com</h2>
           <br></br>
-          <h3>Otherwise please enter your information here</h3>
+          <h3>Otherwise please enter your information below</h3>
           <form className="contact-form">
             <div className="contact-input">
               <label className="label">Email address</label>
