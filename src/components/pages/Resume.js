@@ -25,7 +25,7 @@ export default function Home() {
         <h1>Education</h1>
         <ul id="resumeVolList">
           <li>Columbia University Web Development Bootcamp- 2021</li>
-          <li>University of Virginia BA, Government- 20127-2020</li>
+          <li>University of Virginia BA, Government- 2017-2020</li>
         </ul>
       </div>
     </>
