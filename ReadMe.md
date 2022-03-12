@@ -28,16 +28,18 @@ There are no installation instructions for this project.
 ## Usage
   
 The application is available on GitHub pages at: https://willhaberer.github.io/react-portfolio/
-  
+
+This project is outdated, the above link now redirects to my new portfolio located at: https://wh-react-portfolio.herokuapp.com/
+
 ## Contributing
-  
+
 Any developer is welcome to give feedback on the project by emailing me at the address listed below.
-  
+
 ## Testing
-  
+
 There are no test associated with this project.
-  
+
 ## Questions
-  
+
 Any questions can be emailed to me at willhaberer@gmail.com
 Or, you can find me on [Github](https://www.github.com/willhaberer).
